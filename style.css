@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+p{
+	font-weight: bold;
+	color: green;
+	
+}
+#computer {
+    text-align: center;
+}
+
+#page {
+    text-align: center;
+}
+
+div {
+    background: url(Images\LEGO.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
