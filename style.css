@@ -1,3 +1,15 @@
+body,
+html {
+	min-height:100%;
+}
+
+
+body {
+    background: url(http://i64.tinypic.com/2iscdg8.jpg);
+    background-repeat: no-repeat;
+	background-size:cover;
+}
+
 h1 {
     text-align: center;
 }
@@ -14,8 +26,3 @@ p{
     text-align: center;
 }
 
-body {
-    background: url(http://i64.tinypic.com/2iscdg8.jpg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
